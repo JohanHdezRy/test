@@ -1,0 +1,15 @@
+{
+  "name": "aa-5.1-integracion-continua",
+  "version": "1.0.0",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
